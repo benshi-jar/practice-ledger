@@ -1,0 +1,13 @@
+# Generated Java files
+*.class
+bin/
+out/
+build/
+
+# Personal data and test output
+practice-ledger.json
+ledger-test.json
+ledger-roundtrip-test.json
+
+# Temporary save files
+.ledger-*.tmp
